@@ -1,8 +1,4 @@
-# OtreraLabs
-
-![OtreraLabs Logo](https://OtreraLabs.com/logo.png)
-
-**Welcome to OtreraLabs!**
+# Welcome to OtreraLabs!
 
 OtreraLabs is a startup company dedicated to developing innovative software solutions that make a difference. Our main project, the **NZ ECE Manager**, is a comprehensive software solution designed to support Early Childhood Education (ECE) providers in New Zealand.
 
