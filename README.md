@@ -1,16 +1,42 @@
-## Hi there 👋
+# OtreraLabs
 
-<!--
-**OtreraLabs/otreralabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![OtreraLabs Logo](https://OtreraLabs.com/logo.png)
 
-Here are some ideas to get you started:
+**Welcome to OtreraLabs!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+OtreraLabs is a startup company dedicated to developing innovative software solutions that make a difference. Our main project, the **NZ ECE Manager**, is a comprehensive software solution designed to support Early Childhood Education (ECE) providers in New Zealand.
+
+## 🌟 Our Mission
+
+To empower ECE providers with cutting-edge technology that enhances educational experiences and streamlines management processes.
+
+## 🚀 The NZ ECE Manager
+
+The NZ ECE Manager caters to various roles within the ECE system, including:
+
+- **ECE Owners**
+- **Coordinators**
+- **Educators/Teachers**
+
+### **Key Features:**
+
+- **Comprehensive Management Tools:** Simplify administrative tasks.
+- **Role-Specific Functions:** Tailored features for different user roles.
+- **Flexible Plans:** Offers both free and paid options to suit various needs.
+
+[Learn more about the NZ ECE App](https://OtreraLabs.com/nz-ece-app)
+
+## 🤝 Join Our Journey
+
+We're looking for passionate individuals to join us in transforming ECE management. Check out our [Careers Page](https://OtreraLabs.com/careers) for current opportunities.
+
+## 📬 Get in Touch
+
+- **Website:** [OtreraLabs.com](https://OtreraLabs.com)
+- **Email:** [contact@OtreraLabs.com](mailto:contact@OtreraLabs.com)
+- **LinkedIn:** [OtreraLabs on LinkedIn](https://www.linkedin.com/company/OtreraLabs)
+- **Twitter:** [@OtreraLabs](https://twitter.com/OtreraLabs)
+
+---
+
+*© 2024 OtreraLabs. All rights reserved.*
