@@ -1,38 +1,27 @@
-# Welcome to OtreraLabs!
+# Welcome to OtreraLabs
 
-OtreraLabs is a startup company dedicated to developing innovative software solutions that make a difference. Our main project, the **NZ ECE Manager**, is a comprehensive software solution designed to support Early Childhood Education (ECE) providers in New Zealand.
+**We believe in software that adapts to humans, not the other way around.**
 
-## 🌟 Our Mission
+OtreraLabs is a specialized engineering collective. We are engineers who ship code. We operate as a high-density engineering team supported by a swarm of autonomous agents, allowing us to remain small, agile, and focused entirely on product excellence.
 
-To empower ECE providers with cutting-edge technology that enhances educational experiences and streamlines management processes.
+## 🌍 Join OtreraLabs: Build With Us
 
-## 🚀 The NZ ECE Manager
+At OtreraLabs, we don't just "hire employees"; we partner with creators. Whether you are a seasoned engineer looking for a passion project, or a researcher already working in the field, there is a place for you here.
 
-The NZ ECE Manager caters to various roles within the ECE system, including:
+### Why Volunteer with Otrera?
 
-- **ECE Owners**
-- **Coordinators**
-- **Educators/Teachers**
+- **Full Remote & Async:** Work from anywhere, at any time. We value output and innovation over hours in a chair.
+- **Bleeding Edge Tech:** Get hands-on experience with Autonomous Agents, LLMs, serverless architectures, and modern web frameworks
+- **Real Impact:** Your code will power real ventures, solving real-world problems
+- **Mentorship & Growth:** Work alongside senior engineers and contribute to a codebase that prioritizes quality and scalability
 
-### **Key Features:**
-
-- **Comprehensive Management Tools:** Simplify administrative tasks.
-- **Role-Specific Functions:** Tailored features for different user roles.
-- **Flexible Plans:** Offers both free and paid options to suit various needs.
-
-[Learn more about the NZ ECE App](https://OtreraLabs.com/nz-ece-app)
-
-## 🤝 Join Our Journey
-
-We're looking for passionate individuals to join us in transforming ECE management. Check out our [Careers Page](https://OtreraLabs.com/careers) for current opportunities.
+Check out our [website](https://otreralabs.com) for more information.
 
 ## 📬 Get in Touch
 
-- **Website:** [OtreraLabs.com](https://OtreraLabs.com)
-- **Email:** [contact@OtreraLabs.com](mailto:contact@OtreraLabs.com)
-- **LinkedIn:** [OtreraLabs on LinkedIn](https://www.linkedin.com/company/OtreraLabs)
-- **Twitter:** [@OtreraLabs](https://twitter.com/OtreraLabs)
+- **Website:** [OtreraLabs.com](https://otreralabs.com)
+- **Twitter:** [@OtreraLabs](https://twitter.com/otreralabs)
 
 ---
 
-*© 2024 OtreraLabs. All rights reserved.*
+*© 2026 OtreraLabs. Engineering the Intelligence Layer.*
