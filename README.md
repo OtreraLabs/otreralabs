@@ -4,7 +4,7 @@
 
 OtreraLabs is a specialized engineering collective. We are engineers who ship code. We operate as a high-density engineering team supported by a swarm of autonomous agents, allowing us to remain small, agile, and focused entirely on product excellence.
 
-## 🌍 Join OtreraLabs: Build With Us
+## Build With Us
 
 At OtreraLabs, we don't just "hire employees"; we partner with creators. Whether you are a seasoned engineer looking for a passion project, or a researcher already working in the field, there is a place for you here.
 
@@ -17,7 +17,7 @@ At OtreraLabs, we don't just "hire employees"; we partner with creators. Whether
 
 Check out our [website](https://otreralabs.com) for more information.
 
-## 📬 Get in Touch
+## Get in Touch
 
 - **Website:** [OtreraLabs.com](https://otreralabs.com)
 - **Twitter:** [@OtreraLabs](https://twitter.com/otreralabs)
