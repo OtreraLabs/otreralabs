@@ -20,7 +20,7 @@ Check out our [website](https://otreralabs.com) for more information.
 ## Get in Touch
 
 - **Website:** [OtreraLabs.com](https://otreralabs.com)
-- **Twitter:** [@OtreraLabs](https://twitter.com/otreralabs)
+- **YouTube:** [@OtreraLabs](https://www.youtube.com/@OtreraLabs)
 
 ---
 
